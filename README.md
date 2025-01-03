@@ -3,7 +3,7 @@ Hello! My name is Daniel and I am an aspiring data analyst with a strong foundat
 
 # Projects
 
-## [Bike Store Project (Work in progress)](https://github.com/D-Wilkinson/SQL-WIP)
+## [Bike Store Project](https://github.com/D-Wilkinson/Bike-Store-Project)
 
 The aim of this project was to perform data cleaning and analysis using MySQL Workbench to demonstrate SQL skills, and then to load the manipulated data into PowerBI to create visualisations.
 
